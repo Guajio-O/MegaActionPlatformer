@@ -46,7 +46,7 @@
 |------|------|
 | Unreal Engine | 游戏开发引擎 |
 | PaperZD | 2D 动画插件 |
-| Blueprint / C++ | 游戏逻辑实现 |
+| Blueprint | 游戏逻辑实现 |
 | Collision System | 碰撞检测与物理交互 |
 
 ---
